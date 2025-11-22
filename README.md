@@ -60,6 +60,6 @@ I build clean, fast, and scalable applications. I break things, fix them better,
 * **Email:** [me@mail.islamrady.cv](mailto:me@mail.islamrady.cv)
 * **LinkedIn:** [https://linkedin.com/in/0xsolom](https://linkedin.com/in/0xsolom)
 * **Instagram:** [https://instagram.com/oxsolom](https://instagram.com/oxsolom)
-* **Discord:** islam.
 * **GitHub:** [https://github.com/oxsolom](https://github.com/oxsolom)
 * **Portfolio:** [https://islamrady.cv](https://islamrady.cv)
+* **Discord:** islam.
