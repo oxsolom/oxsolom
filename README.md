@@ -46,13 +46,12 @@ I build clean, fast, and scalable applications. I break things, fix them better,
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oxsolom&show_icons=true&theme=dark&include_all_commits=true&rank_icon=github" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oxsolom&theme=dark" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxsolom&layout=compact&theme=dark" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oxsolom&show_icons=true&theme=dark&include_all_commits=true&rank_icon=github" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oxsolom&theme=dark" width="49%" />
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxsolom&layout=compact&theme=dark" width="45%" />
+</div>
 
 ---
 
