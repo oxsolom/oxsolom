@@ -1,54 +1,40 @@
-# Islam-Rady # Hi, I'm Oxsolom 👋
+# Hi, I'm Islam Rady (Oxsolom) 👋 
+### 🛡 Cybersecurity Student | Infrastructure Security Practitioner | Automation Developer
 
-### 🚀 Full‑Stack Developer | MERN Specialist | DevOps Enthusiast
+I build resilient infrastructures, automate secure workflows, and obsess over system reliability. Currently refining my expertise in network security, enterprise-level Linux administration, and secure backend architectures. 
 
-I build clean, fast, and scalable applications. I break things, fix them better, and push updates like it’s a habit.
+--- 
 
----
+## 🧰 Technical Proficiency 
 
-## 🧰 Tech Stack
+* **Networking & Security:** OSI Model, IPv4/IPv6 Routing, Subnetting, NAT, Access Control Lists (ACLs), Firewall Engineering[cite: 5]. 
+* **Systems Administration:** RHEL/Linux Filesystem Operations, LVM, User Privilege Administration, SELinux policies[cite: 5]. 
+* **Languages & Automation:** Python (Advanced Scripting), Bash Shell, JavaScript[cite: 5]. * **Infrastructure & Tools:** GitHub Actions (CI/CD), Git, Cisco Packet Tracer, UNIX/Linux CLI Environment[cite: 5].
 
-### **Backend-Focused**
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,docker,git,github" /> 
+</p> 
 
-**Languages:** JavaScript, TypeScript
+--- 
 
-**Backend:** Node.js, Express, MongoDB, Mongoose
+## 📌 Current Focus 
 
-**Frontend:** React, Vite, TailwindCSS
-
-**DevOps / Tools:** Docker, Vercel, Git, GitHub Actions
-
-### **Icons**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,js,ts,react,vite,tailwind,docker,git,github" />
-</p>
-
----
-
-## 📌 What I Do
-
-* Build full‑stack apps with clean architecture
-* Deploy MERN apps the right way
-* Fix build errors that ruin your day
-* Optimize performance like it owes me money
+* **Infrastructure Security:** Hardening RHEL environments and configuring resilient network boundaries[cite: 5].
+* **Workflow Automation:** Building customized Python scripts to facilitate log auditing, system monitoring, and threat detection[cite: 5].
+* **Academic Pursuit:** Deepening my knowledge in Data Communication, Discrete Structures, and Advanced Mathematics at Suez Canal University[cite: 5].
 
 ---
 
-## 📂 Projects
+## 📂 Engineering Projects
+* **CI/CD Pipeline Automation:** Developed workflows using GitHub Actions to automate build processes for cross-platform applications[cite: 5].
+* **Network Simulation Lab:** Architected multi-subnet topologies in Cisco Packet Tracer, incorporating VLAN segregation and ACL configurations[cite: 5].
+* **System Performance Parser:** Engineered Python scripts to parse performance profiles and optimize system logs and memory usage[cite: 5].
 
-### **🔥 Highlight Projects**
+--- 
 
-* **E-Commerce Platform** – Full-stack MERN e‑commerce with Paymob integration.
-* **Authentication System** – JWT, OAuth2, RBAC, MongoDB user management.
-
----
-
-## 📫 Contact
+## 📫 Contact & Professional Links 
 
 * **Email:** [me@mail.islamrady.cv](mailto:me@mail.islamrady.cv)
-* **LinkedIn:** [https://linkedin.com/in/0xsolom](https://linkedin.com/in/0xsolom)
-* **Instagram:** [https://instagram.com/oxsolom](https://instagram.com/oxsolom)
-* **GitHub:** [https://github.com/oxsolom](https://github.com/oxsolom)
-* **Portfolio:** [https://islamrady.cv](https://islamrady.cv)
-* **Discord:** islam.
+* **LinkedIn:** [linkedin.com/in/0xsolom](https://linkedin.com/in/0xsolom)
+* **GitHub:** [github.com/oxsolom](https://github.com/oxsolom)
+* **Portfolio:** [islamrady.cv](https://islamrady.cv)
