@@ -7,9 +7,9 @@ I build resilient infrastructures, automate secure workflows, and obsess over sy
 
 ## 🧰 Technical Proficiency 
 
-* **Networking & Security:** OSI Model, IPv4/IPv6 Routing, Subnetting, NAT, Access Control Lists (ACLs), Firewall Engineering[cite: 5]. 
-* **Systems Administration:** RHEL/Linux Filesystem Operations, LVM, User Privilege Administration, SELinux policies[cite: 5]. 
-* **Languages & Automation:** Python (Advanced Scripting), Bash Shell, JavaScript[cite: 5]. * **Infrastructure & Tools:** GitHub Actions (CI/CD), Git, Cisco Packet Tracer, UNIX/Linux CLI Environment[cite: 5].
+* **Networking & Security:** OSI Model, IPv4/IPv6 Routing, Subnetting, NAT, Access Control Lists (ACLs), Firewall Engineering. 
+* **Systems Administration:** RHEL/Linux Filesystem Operations, LVM, User Privilege Administration, SELinux policies. 
+* **Languages & Automation:** Python (Advanced Scripting), Bash Shell, JavaScript. * **Infrastructure & Tools:** GitHub Actions (CI/CD), Git, Cisco Packet Tracer, UNIX/Linux CLI Environment.
 
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=python,linux,bash,docker,git,github" /> 
@@ -19,16 +19,16 @@ I build resilient infrastructures, automate secure workflows, and obsess over sy
 
 ## 📌 Current Focus 
 
-* **Infrastructure Security:** Hardening RHEL environments and configuring resilient network boundaries[cite: 5].
-* **Workflow Automation:** Building customized Python scripts to facilitate log auditing, system monitoring, and threat detection[cite: 5].
-* **Academic Pursuit:** Deepening my knowledge in Data Communication, Discrete Structures, and Advanced Mathematics at Suez Canal University[cite: 5].
+* **Infrastructure Security:** Hardening RHEL environments and configuring resilient network boundaries.
+* **Workflow Automation:** Building customized Python scripts to facilitate log auditing, system monitoring, and threat detection.
+* **Academic Pursuit:** Deepening my knowledge in Data Communication, Discrete Structures, and Advanced Mathematics at Suez Canal University.
 
 ---
 
 ## 📂 Engineering Projects
-* **CI/CD Pipeline Automation:** Developed workflows using GitHub Actions to automate build processes for cross-platform applications[cite: 5].
-* **Network Simulation Lab:** Architected multi-subnet topologies in Cisco Packet Tracer, incorporating VLAN segregation and ACL configurations[cite: 5].
-* **System Performance Parser:** Engineered Python scripts to parse performance profiles and optimize system logs and memory usage[cite: 5].
+* **CI/CD Pipeline Automation:** Developed workflows using GitHub Actions to automate build processes for cross-platform applications.
+* **Network Simulation Lab:** Architected multi-subnet topologies in Cisco Packet Tracer, incorporating VLAN segregation and ACL configurations.
+* **System Performance Parser:** Engineered Python scripts to parse performance profiles and optimize system logs and memory usage.
 
 --- 
 
