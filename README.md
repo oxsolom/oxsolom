@@ -9,7 +9,8 @@ I build resilient infrastructures, automate secure workflows, and obsess over sy
 
 * **Networking & Security:** OSI Model, IPv4/IPv6 Routing, Subnetting, NAT, Access Control Lists (ACLs), Firewall Engineering. 
 * **Systems Administration:** RHEL/Linux Filesystem Operations, LVM, User Privilege Administration, SELinux policies. 
-* **Languages & Automation:** Python (Advanced Scripting), Bash Shell, JavaScript. * **Infrastructure & Tools:** GitHub Actions (CI/CD), Git, Cisco Packet Tracer, UNIX/Linux CLI Environment.
+* **Languages & Automation:** Python (Advanced Scripting), Bash Shell, JavaScript.
+* **Infrastructure & Tools:** GitHub Actions (CI/CD), Git, Cisco Packet Tracer, UNIX/Linux CLI Environment.
 
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=python,linux,bash,docker,git,github" /> 
